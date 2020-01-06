@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Choice of Voices
+description: A Large-Scale Evaluation of Text-to-Speech Voice Quality for Long-Form Content
+plugins:
+  - jemoji
