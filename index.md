@@ -15,8 +15,9 @@ What&mdash;more "objectively"&mdash;may have contributed to the observed differe
 One important word of caution: our TTS recordings were generated through end-user APIs and, without direct contact with the developers, it is difficult to identify the synthesis models or technical features of the voices with absolute certainty. Please note that (except where indicated), the synthesis approach listed is based on the best guess of experts in the speech synthesis field.
 
 #### Inferred or confirmed synthesis models
+
 |Voice Name|Synthesis model|Source|
-|----------|---------------|------|
+|:---------|:--------------|:-----|
 |UK Male|_TBD_||
 |Google A|_TBD_||
 |Google C|_TBD_||
