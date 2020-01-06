@@ -36,7 +36,7 @@ One important word of caution: our TTS recordings were generated through end-use
 |Windows Zira|_TBD_||
 |Windows David|_TBD_||
 
-_Did we get something wrong?_ If you were involved in the development of any of these voices or notice an error, please let us know so we can correct it by filing an issue or submitting a pull request. We’d appreciate it!
+_Did we get something wrong?_ If you were involved in the development of any of these voices or notice an error, please let us know so we can correct it by [filing an issue](https://github.com/ttschoice/ttschoice.github.io/issues) or [submitting a pull request](https://github.com/ttschoice/ttschoice.github.io/pulls). We’d appreciate it!
 
 
 ## Cite our work
