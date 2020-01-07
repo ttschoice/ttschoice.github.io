@@ -44,8 +44,8 @@ The F0 and Intensity values below were determined using Praat from the clips abo
 |Voice Name|Average F0 (Hz)|Average Intensity (dB)|Synthesis model|Source|
 |:---------|:--------------|:---------------------|:-------------|:------|
 |UK Male|116.8|67.1|_TBD_||
-|Google A|133.2|74.7|_TBD_||
-|Google C|160.7|75.1|_TBD_||
+|Google A|133.2|74.7|WaveNet|https://cloud.google.com/text-to-speech/docs/wavenet|
+|Google C|160.7|75.1|WaveNet|https://cloud.google.com/text-to-speech/docs/wavenet|
 |Human 1|126.9|68.1|_N/A_|_N/A_|
 |Human 2|186.7|71.9|_N/A_|_N/A_|
 |Human 3|119.6|67.4|_N/A_|_N/A_|
