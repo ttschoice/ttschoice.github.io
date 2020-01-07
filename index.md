@@ -22,7 +22,7 @@ _"Bill Rielly had it all: a degree from West Point, an executive position at Mic
 |Judy GL1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyGL1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Judy GL2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyGL2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Judy W1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyW1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
-|Judy W2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyW2wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Judy W2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyW2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |LJ Speech|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/LJSpeech.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Mac Default|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/mac_default.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Nancy 1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Nancy1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
