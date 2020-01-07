@@ -6,8 +6,33 @@ Listening to long-form content is increasingly common, and the voice reading tha
 ## Listen to the TTS voices
 In our research study, participants listened to one of 21 voices reading an article [Reduce Your Stress in Two Minutes a Day](https://getpocket.com/explore/item/reduce-your-stress-in-two-minutes-a-day).
 
-Here are 10-second clips of each of those voices reading a portion of the article:
+Here are 10-second clips of each of those voices reading the first two sentences of the article:
 
+_"Bill Rielly had it all: a degree from West Point, an executive position at Microsoft, strong faith, a great family life, and plenty of money.  He even got along well with his in-laws!"_
+
+|Voice Name|Clip|
+|:---------|:--------------|
+|Android UK Male|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/UK%20Male.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Google A|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Google%20A.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Google C|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Google%20C.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Human 1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Human1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Human 2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Human2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Human 3|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Human3.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|iOS |<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/iOS.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Judy GL1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyGL1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Judy GL2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyGL2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Judy W1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyW1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Judy W2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/JudyW2wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|LJ Speech|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/LJSpeech.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Mac Default|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/mac_default.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Nancy 1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Nancy1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Nancy 2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Nancy2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Polly Joana|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollyJoana.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Polly Matthew|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollyMatthew.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Polly Sally|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollySally.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Voicery Nichole|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/VoiceryNichole.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Windows Zira|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Windows_Zira.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Windows David|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Windows_David.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 
 ## Technical features
 What&mdash;more "objectively"&mdash;may have contributed to the observed differences in listeners’ preferences? While our focus is primarily on informing end users of TTS voices rather than speech synthesis engineers, we present this information as another feature that may help select synthesized voices, particularly for voices where the model details are known, but no listening test has been conducted.
