@@ -6,7 +6,7 @@ Listening to long-form content is increasingly common, and the voice reading tha
 ## Listen to the TTS voices
 In our research study, participants listened to one of 21 voices reading an article [Reduce Your Stress in Two Minutes a Day](https://getpocket.com/explore/item/reduce-your-stress-in-two-minutes-a-day).
 
-Here are 10-second clips of each of those voices reading the first two sentences of the article:
+Here are brief clips of each of those voices reading the first two sentences of the article:
 
 _"Bill Rielly had it all: a degree from West Point, an executive position at Microsoft, strong faith, a great family life, and plenty of money.  He even got along well with his in-laws!"_
 
