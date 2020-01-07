@@ -39,28 +39,31 @@ What&mdash;more "objectively"&mdash;may have contributed to the observed differe
 
 One important word of caution: our TTS recordings were generated through end-user APIs and, without direct contact with the developers, it is difficult to identify the synthesis models or technical features of the voices with absolute certainty. Please note that (except where indicated), the synthesis approach listed is based on the best guess of experts in the speech synthesis field.
 
-#### Inferred or confirmed synthesis models
+The F0 and Intensity values below were determined using Praat from the clips above in which each voice reads the first two sentences of the article (~10 second clips each).
 
-|Voice Name|Synthesis model|Source|
-|:---------|:--------------|:-----|
-|UK Male|_TBD_||
-|Google A|_TBD_||
-|Google C|_TBD_||
-|iOS |_TBD_||
-|Judy GL1|Tacotron + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Judy GL2|Tacotron2 + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Judy W1|Tacotron + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Judy W2|Tacotron2 + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|LJ Speech|Tacotron + GriffinLim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Mac Default|_TBD_||
-|Nancy 1|Tacotron + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Nancy 2|Tacotron2 + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Polly Joana|_TBD_||
-|Polly Matthew|_TBD_||
-|Polly Sally|_TBD_||
-|Voicery Nichole|_TBD_||
-|Windows Zira|_TBD_||
-|Windows David|_TBD_||
+|Voice Name|Average F0 (Hz)|Average Intensity (dB)|Synthesis model|Source|
+|:---------|:--------------|:---------------------|:-------------|:------|
+|UK Male|116.8|67.1|_TBD_||
+|Google A|133.2|74.7|_TBD_||
+|Google C|160.7|75.1|_TBD_||
+|Human 1|126.9|68.1|_N/A_|_N/A_|
+|Human 2|186.7|71.9|_N/A_|_N/A_|
+|Human 3|119.6|67.4|_N/A_|_N/A_|
+|iOS|166.3|77.5|_TBD_||
+|Judy GL1|188.7|76.5|Tacotron + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Judy GL2|197.3|72.7|Tacotron2 + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Judy W1|187.3|76.9|Tacotron + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Judy W2|195.5|78.0|Tacotron2 + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|LJ Speech|215.4|73.4|Tacotron + GriffinLim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Mac Default|113.6|65.6|_TBD_||
+|Nancy 1|197.7|75.2|Tacotron + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Nancy 2|189.0|75.9|Tacotron2 + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
+|Polly Joana|155.3|72.6|_TBD_||
+|Polly Matthew|99.6|72.8|_TBD_||
+|Polly Sally|192.2|73.1|_TBD_||
+|Voicery Nichole|194.0|68.2|_TBD_||
+|Windows Zira|176.9|66.1|_TBD_||
+|Windows David|91.9|66.7|_TBD_||
 
 _Did we get something wrong?_ If you were involved in the development of any of these voices or notice an error, please let us know so we can correct it by [filing an issue](https://github.com/ttschoice/ttschoice.github.io/issues) or [submitting a pull request](https://github.com/ttschoice/ttschoice.github.io/pulls). We’d appreciate it!
 
