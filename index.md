@@ -27,7 +27,7 @@ _"Bill Rielly had it all: a degree from West Point, an executive position at Mic
 |Mac Default|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/mac_default.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Nancy 1|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Nancy1.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Nancy 2|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/Nancy2.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
-|Polly Joana|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollyJoana.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
+|Polly Joanna|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollyJoana.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Polly Matthew|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollyMatthew.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Polly Sally|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/PollySally.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
 |Voicery Nichole|<audio controls src="https://github.com/ttschoice/ttschoice.github.io/blob/master/voice_clips/VoiceryNichole.wav?raw=true">Your browser does not support the <code>audio</code> element.</audio>|
@@ -58,7 +58,7 @@ The F0 and Intensity values below were determined using Praat from the clips abo
 |Mac Default|113.6|65.6|_TBD_||
 |Nancy 1|197.7|75.2|Tacotron + Griffin Lim|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
 |Nancy 2|189.0|75.9|Tacotron2 + WaveRNN|https://github.com/mozilla/TTS/wiki/Mean-Opinion-Score-Results|
-|Polly Joana|155.3|72.6|_TBD_||
+|Polly Joanna|155.3|72.6|_TBD_||
 |Polly Matthew|99.6|72.8|_TBD_||
 |Polly Sally|192.2|73.1|_TBD_||
 |Voicery Nichole|194.0|68.2|_TBD_||
